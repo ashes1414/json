@@ -1,0 +1,754 @@
+[
+ {
+   "ProjectId": 84739,
+   "ProjectName": "Cycle-Count-UI"
+ },
+ {
+   "ProjectId": 52897,
+   "ProjectName": "walk-forward-recon-service"
+ },
+ {
+   "ProjectId": 50438,
+   "ProjectName": "vendor-to-ax"
+ },
+ {
+   "ProjectId": 44118,
+   "ProjectName": "LKM_AX_ORCHESTRATION_FRAMEWORK"
+ },
+ {
+   "ProjectId": 32796,
+   "ProjectName": "ON_HAND_CONVERSION"
+ },
+ {
+   "ProjectId": 30466,
+   "ProjectName": "PRISM-INVENTORY-CONFIG-SERVER"
+ },
+ {
+   "ProjectId": 19410,
+   "ProjectName": "Prisminventoryparent"
+ },
+ {
+   "ProjectId": 71291,
+   "ProjectName": "3pl Recon Memsql"
+ },
+ {
+   "ProjectId": 74116,
+   "ProjectName": "arb-spares-consumer-service"
+ },
+ {
+   "ProjectId": 74006,
+   "ProjectName": "inventory-943-transacton-service"
+ },
+ {
+   "ProjectId": 73958,
+   "ProjectName": "inventory-943-data-service"
+ },
+ {
+   "ProjectId": 71138,
+   "ProjectName": "mss-process-service"
+ },
+ {
+   "ProjectId": 83432,
+   "ProjectName": "emea-dsi-glovia-call"
+ },
+ {
+   "ProjectId": 80278,
+   "ProjectName": "glovia-relief-verification"
+ },
+ {
+   "ProjectId": 79693,
+   "ProjectName": "workorder-reprocessor-service"
+ },
+ {
+   "ProjectId": 79408,
+   "ProjectName": "sla-overrun-monitor"
+ },
+ {
+   "ProjectId": 79025,
+   "ProjectName": "version-compare-component"
+ },
+ {
+   "ProjectId": 79011,
+   "ProjectName": "spring-cloud-gateway-ft1"
+ },
+ {
+   "ProjectId": 73965,
+   "ProjectName": "apj-glv-po-rect-consumer-svc"
+ },
+ {
+   "ProjectId": 73807,
+   "ProjectName": "merge-inter-org-transfer-service"
+ },
+ {
+   "ProjectId": 72956,
+   "ProjectName": "prism-circuit-breaker"
+ },
+ {
+   "ProjectId": 72797,
+   "ProjectName": "subInv-transfer-component"
+ },
+ {
+   "ProjectId": 72645,
+   "ProjectName": "asn-reprocessor"
+ },
+ {
+   "ProjectId": 71292,
+   "ProjectName": "Prism Monitoring Service"
+ },
+ {
+   "ProjectId": 69935,
+   "ProjectName": "glovia-issuance-svc"
+ },
+ {
+   "ProjectId": 69508,
+   "ProjectName": "adhoc-star-item-mapping"
+ },
+ {
+   "ProjectId": 68515,
+   "ProjectName": "prism-router-service"
+ },
+ {
+   "ProjectId": 68146,
+   "ProjectName": "sn-glovia-trigger-component"
+ },
+ {
+   "ProjectId": 66350,
+   "ProjectName": "asn-data-api-v2"
+ },
+ {
+   "ProjectId": 66109,
+   "ProjectName": "prism-common-error-routing-service"
+ },
+ {
+   "ProjectId": 65634,
+   "ProjectName": "sn-po-update-component"
+ },
+ {
+   "ProjectId": 65504,
+   "ProjectName": "asn-reporting-component"
+ },
+ {
+   "ProjectId": 36747,
+   "ProjectName": "fga-adhoc-api"
+ },
+ {
+   "ProjectId": 63763,
+   "ProjectName": "prism-inventory-onhand-api"
+ },
+ {
+   "ProjectId": 57923,
+   "ProjectName": "ats-shipment-details"
+ },
+ {
+   "ProjectId": 53576,
+   "ProjectName": "ats-listener-service"
+ },
+ {
+   "ProjectId": 53574,
+   "ProjectName": "outbound-to-ats"
+ },
+ {
+   "ProjectId": 53572,
+   "ProjectName": "ats-shipment-processor"
+ },
+ {
+   "ProjectId": 85291,
+   "ProjectName": "DevPOC2"
+ },
+ {
+   "ProjectId": 84624,
+   "ProjectName": "Epitome"
+ },
+ {
+   "ProjectId": 84481,
+   "ProjectName": "Virtual Trader"
+ },
+ {
+   "ProjectId": 84321,
+   "ProjectName": "RSN_MAINTENANCE"
+ },
+ {
+   "ProjectId": 83479,
+   "ProjectName": "DevopsPOC1"
+ },
+ {
+   "ProjectId": 83103,
+   "ProjectName": "Korea PO Receipt"
+ },
+ {
+   "ProjectId": 81661,
+   "ProjectName": "Outbound_FT3"
+ },
+ {
+   "ProjectId": 81408,
+   "ProjectName": "CDARS"
+ },
+ {
+   "ProjectId": 80825,
+   "ProjectName": "YKS PO Receipt"
+ },
+ {
+   "ProjectId": 80493,
+   "ProjectName": "Onboarding_Factories_Workflows"
+ },
+ {
+   "ProjectId": 80480,
+   "ProjectName": "FT2 Project"
+ },
+ {
+   "ProjectId": 79804,
+   "ProjectName": "RICT_FT6"
+ },
+ {
+   "ProjectId": 78913,
+   "ProjectName": "Inventory Relief"
+ },
+ {
+   "ProjectId": 74176,
+   "ProjectName": "Onboarding Direct Shipments"
+ },
+ {
+   "ProjectId": 74175,
+   "ProjectName": "Fedex2T"
+ },
+ {
+   "ProjectId": 73862,
+   "ProjectName": "Cost Recovery UI"
+ },
+ {
+   "ProjectId": 72799,
+   "ProjectName": "Conversion"
+ },
+ {
+   "ProjectId": 72142,
+   "ProjectName": "Glovia Enablement process_FT5"
+ },
+ {
+   "ProjectId": 72141,
+   "ProjectName": "RSN_TF5"
+ },
+ {
+   "ProjectId": 71621,
+   "ProjectName": "AX_Factories_FT5"
+ },
+ {
+   "ProjectId": 79728,
+   "ProjectName": "mm-po-receive-acknack"
+ },
+ {
+   "ProjectId": 78516,
+   "ProjectName": "MM_PO_RECEIVE"
+ },
+ {
+   "ProjectId": 67001,
+   "ProjectName": "glovia-po-consumer-service"
+ },
+ {
+   "ProjectId": 58805,
+   "ProjectName": "rict-reprocess-api"
+ },
+ {
+   "ProjectId": 51586,
+   "ProjectName": "reprocess-helper-api"
+ },
+ {
+   "ProjectId": 50405,
+   "ProjectName": "lkm-receive-memsql"
+ },
+ {
+   "ProjectId": 48970,
+   "ProjectName": "email-trigger-service"
+ },
+ {
+   "ProjectId": 47238,
+   "ProjectName": "ax-reversal-outbound"
+ },
+ {
+   "ProjectId": 47237,
+   "ProjectName": "ax-reversal-inbound"
+ },
+ {
+   "ProjectId": 47236,
+   "ProjectName": "ax-validator-service"
+ },
+ {
+   "ProjectId": 46863,
+   "ProjectName": "ax-po-creation"
+ },
+ {
+   "ProjectId": 46821,
+   "ProjectName": "ax-po-receive-acknack"
+ },
+ {
+   "ProjectId": 46820,
+   "ProjectName": "ax-po-receive-consume"
+ },
+ {
+   "ProjectId": 46819,
+   "ProjectName": "ax-poreceipt-inbound-service"
+ },
+ {
+   "ProjectId": 45647,
+   "ProjectName": "lkm-po-receive-validation"
+ },
+ {
+   "ProjectId": 45646,
+   "ProjectName": "lkm-po-receive-consume"
+ },
+ {
+   "ProjectId": 45645,
+   "ProjectName": "lkm-po-receive-acknack"
+ },
+ {
+   "ProjectId": 45644,
+   "ProjectName": "lkm-poreceipt-inbound-service"
+ },
+ {
+   "ProjectId": 45643,
+   "ProjectName": "po-receipt-outbound"
+ },
+ {
+   "ProjectId": 50278,
+   "ProjectName": "ax-reconciliation"
+ },
+ {
+   "ProjectId": 84623,
+   "ProjectName": "prismo-endofmonth-mssql"
+ },
+ {
+   "ProjectId": 80626,
+   "ProjectName": "prismo-usage-analytics"
+ },
+ {
+   "ProjectId": 80301,
+   "ProjectName": "prismo-apphealth-service"
+ },
+ {
+   "ProjectId": 79966,
+   "ProjectName": "prismo-infra-health-service"
+ },
+ {
+   "ProjectId": 79829,
+   "ProjectName": "spring-cloud-api-gateway-ft3"
+ },
+ {
+   "ProjectId": 74119,
+   "ProjectName": "prismo-sla-mongo-utility"
+ },
+ {
+   "ProjectId": 74118,
+   "ProjectName": "prismo-sla-scheduler-service"
+ },
+ {
+   "ProjectId": 73370,
+   "ProjectName": "3pl-spring-cloud-gateway"
+ },
+ {
+   "ProjectId": 73068,
+   "ProjectName": "prismo-alerts-service"
+ },
+ {
+   "ProjectId": 69045,
+   "ProjectName": "Prismo-Alert-Event-Manager"
+ },
+ {
+   "ProjectId": 68047,
+   "ProjectName": "prismo-flowstatus-scheduler-service"
+ },
+ {
+   "ProjectId": 65997,
+   "ProjectName": "dashboard-gateway"
+ },
+ {
+   "ProjectId": 65610,
+   "ProjectName": "uip-depth-calculator"
+ },
+ {
+   "ProjectId": 65411,
+   "ProjectName": "uip-mongo-fetch-utility"
+ },
+ {
+   "ProjectId": 65409,
+   "ProjectName": "uip-mongo-service-utility"
+ },
+ {
+   "ProjectId": 65280,
+   "ProjectName": "uip-inventory-variance-dropdown"
+ },
+ {
+   "ProjectId": 62963,
+   "ProjectName": "uip-inventory-variance"
+ },
+ {
+   "ProjectId": 61818,
+   "ProjectName": "config-service"
+ },
+ {
+   "ProjectId": 60293,
+   "ProjectName": "uip-flash-message-utility"
+ },
+ {
+   "ProjectId": 55500,
+   "ProjectName": "workflow-message-rabbit-reprocess"
+ },
+ {
+   "ProjectId": 47379,
+   "ProjectName": "enablement-tool-ui"
+ },
+ {
+   "ProjectId": 31792,
+   "ProjectName": "orchestration-engine"
+ },
+ {
+   "ProjectId": 59906,
+   "ProjectName": "cork-reversal-inbound"
+ },
+ {
+   "ProjectId": 59905,
+   "ProjectName": "cork-po-receipt-inbound"
+ },
+ {
+   "ProjectId": 58922,
+   "ProjectName": "cork-po-creation"
+ },
+ {
+   "ProjectId": 57611,
+   "ProjectName": "cork-po-receipt-validator"
+ },
+ {
+   "ProjectId": 57610,
+   "ProjectName": "cork-po-acknack"
+ },
+ {
+   "ProjectId": 57609,
+   "ProjectName": "cork-po-receive"
+ },
+ {
+   "ProjectId": 64567,
+   "ProjectName": "CostRecovery-MEMSQL"
+ },
+ {
+   "ProjectId": 40688,
+   "ProjectName": "COST-RECOVERY-UI"
+ },
+ {
+   "ProjectId": 84772,
+   "ProjectName": "XXIINV069_BOM_DELETION"
+ },
+ {
+   "ProjectId": 84771,
+   "ProjectName": "XXIINV061_MTL_PART_SWAP"
+ },
+ {
+   "ProjectId": 84770,
+   "ProjectName": "XXIINV070_STAR_ITEM_SYNC"
+ },
+ {
+   "ProjectId": 80678,
+   "ProjectName": "XXIINV057_STARITEM_REVERSAL"
+ },
+ {
+   "ProjectId": 80677,
+   "ProjectName": "XXIINV060_INV_ONHND_SNPSHT"
+ },
+ {
+   "ProjectId": 79795,
+   "ProjectName": "XXIINV059_PAU_PARTS_ISSUE"
+ },
+ {
+   "ProjectId": 68782,
+   "ProjectName": "XXIINV001_ITEM_AUTOMATION_INTERFACE"
+ },
+ {
+   "ProjectId": 68371,
+   "ProjectName": "XXIINV001_ITEM_MDM_INTERFACE1"
+ },
+ {
+   "ProjectId": 66125,
+   "ProjectName": "XXIINV056_INTER_ORG_INTF"
+ },
+ {
+   "ProjectId": 66124,
+   "ProjectName": "XXIINV055_MTL_SUBINV_INTF"
+ },
+ {
+   "ProjectId": 66122,
+   "ProjectName": "XXIINV054_MTL_MISC_ISSUE_INTF"
+ },
+ {
+   "ProjectId": 66121,
+   "ProjectName": "XXIINV049_FGA_CONVERSION"
+ },
+ {
+   "ProjectId": 66120,
+   "ProjectName": "XXIINV052_ADHOC_STRCREATION"
+ },
+ {
+   "ProjectId": 66119,
+   "ProjectName": "XXIINV053_STARCOST_RPT"
+ },
+ {
+   "ProjectId": 63319,
+   "ProjectName": "XXIINV001_ITEM_MDM_INTERFACE"
+ },
+ {
+   "ProjectId": 63051,
+   "ProjectName": "XXIAP046_RICT_INBOUND"
+ },
+ {
+   "ProjectId": 62936,
+   "ProjectName": "XXIINV048_ITEM_ONFLY_CREATION"
+ },
+ {
+   "ProjectId": 60527,
+   "ProjectName": "XXIINV045_TLA_TRANSACTIONS"
+ },
+ {
+   "ProjectId": 60526,
+   "ProjectName": "XXIINV047_RECEIPTS_EDI_REPORT"
+ },
+ {
+   "ProjectId": 57103,
+   "ProjectName": "XXIINV040_EPC_COST_OUTBOUND"
+ },
+ {
+   "ProjectId": 82534,
+   "ProjectName": "spring-cloud-gateway-rict-ft4"
+ },
+ {
+   "ProjectId": 81793,
+   "ProjectName": "xxiinv024-mtltxnout-vtaddress-service"
+ },
+ {
+   "ProjectId": 80967,
+   "ProjectName": "XXIINV024_MtlTxn_OdiVt_Ack_Service"
+ },
+ {
+   "ProjectId": 80966,
+   "ProjectName": "XXIINV024_MtlTxn_Out_OdiVt_Service"
+ },
+ {
+   "ProjectId": 79419,
+   "ProjectName": "cost-recovery-arb-releif-service"
+ },
+ {
+   "ProjectId": 73251,
+   "ProjectName": "spring-cloud-gateway-ft4"
+ },
+ {
+   "ProjectId": 70999,
+   "ProjectName": "xxiap034-e-invoice-status-consumer-service"
+ },
+ {
+   "ProjectId": 70393,
+   "ProjectName": "CostRecoveryArchive"
+ },
+ {
+   "ProjectId": 70170,
+   "ProjectName": "xxiap010-glovia-web-service"
+ },
+ {
+   "ProjectId": 70087,
+   "ProjectName": "xxiap034-e-invoice-finalstatusupdate-service"
+ },
+ {
+   "ProjectId": 69608,
+   "ProjectName": "xxiap010-ezedi-readfile"
+ },
+ {
+   "ProjectId": 69495,
+   "ProjectName": "xxiap010-edi810-readfile"
+ },
+ {
+   "ProjectId": 69099,
+   "ProjectName": "cost-recovery-scheduler-service"
+ },
+ {
+   "ProjectId": 69098,
+   "ProjectName": "CostRecovery-Calculation-Service"
+ },
+ {
+   "ProjectId": 68140,
+   "ProjectName": "xxiap034-novora-e-invoice-reprocess-service"
+ },
+ {
+   "ProjectId": 62918,
+   "ProjectName": "xxiap046-rict-consumer-service"
+ },
+ {
+   "ProjectId": 61931,
+   "ProjectName": "xxiap012-render-image-downloader"
+ },
+ {
+   "ProjectId": 60202,
+   "ProjectName": "xxiap010-invoice-xml-transformation-service"
+ },
+ {
+   "ProjectId": 59649,
+   "ProjectName": "xxiap010-invoiceinbound-xml-read-file-service"
+ },
+ {
+   "ProjectId": 58498,
+   "ProjectName": "xxiap046-rict-ebs-invoiceloader-service"
+ },
+ {
+   "ProjectId": 62582,
+   "ProjectName": "epc-item-cost-report"
+ },
+ {
+   "ProjectId": 47279,
+   "ProjectName": "epc-addr-service"
+ },
+ {
+   "ProjectId": 41481,
+   "ProjectName": "epc-itemCost-error-details"
+ },
+ {
+   "ProjectId": 40967,
+   "ProjectName": "epc-checksum-email"
+ },
+ {
+   "ProjectId": 37744,
+   "ProjectName": "epc-itemCost-summary"
+ },
+ {
+   "ProjectId": 31221,
+   "ProjectName": "epc-scheduler-service"
+ },
+ {
+   "ProjectId": 27767,
+   "ProjectName": "epc-mcid-inventory-service"
+ },
+ {
+   "ProjectId": 27402,
+   "ProjectName": "ccn-inventory-service"
+ },
+ {
+   "ProjectId": 27077,
+   "ProjectName": "epc-cost-transform-service"
+ },
+ {
+   "ProjectId": 26188,
+   "ProjectName": "EPC cost details to Mongo"
+ },
+ {
+   "ProjectId": 71294,
+   "ProjectName": "Prism Inv Monitoring Scripts"
+ },
+ {
+   "ProjectId": 71028,
+   "ProjectName": "Prism Reporting"
+ },
+ {
+   "ProjectId": 71026,
+   "ProjectName": "Prism Inventory Config Server"
+ },
+ {
+   "ProjectId": 58935,
+   "ProjectName": "pipeline-mappings"
+ },
+ {
+   "ProjectId": 69995,
+   "ProjectName": "ebs-onhand-qty-check-api"
+ },
+ {
+   "ProjectId": 51552,
+   "ProjectName": "git-glovia-receipt-api"
+ },
+ {
+   "ProjectId": 51364,
+   "ProjectName": "tenor-integration-layer"
+ },
+ {
+   "ProjectId": 47400,
+   "ProjectName": "git-mcid-inventory-org-mapping-service"
+ },
+ {
+   "ProjectId": 44969,
+   "ProjectName": "global-transfer-tool-service"
+ },
+ {
+   "ProjectId": 44805,
+   "ProjectName": "global-transfer-tool-ui"
+ },
+ {
+   "ProjectId": 80905,
+   "ProjectName": "ax-rshp-inventory-prism-validator"
+ },
+ {
+   "ProjectId": 80904,
+   "ProjectName": "ax-inventory-prism-transaction-orchestrator"
+ },
+ {
+   "ProjectId": 66479,
+   "ProjectName": "ax-inventory-transaction-ack-nack"
+ },
+ {
+   "ProjectId": 59738,
+   "ProjectName": "TLA-TRANSACTIONS-API"
+ },
+ {
+   "ProjectId": 58047,
+   "ProjectName": "ax-943-v4-consumer"
+ },
+ {
+   "ProjectId": 57727,
+   "ProjectName": "ax-943-v4-orchestrator"
+ },
+ {
+   "ProjectId": 57485,
+   "ProjectName": "ax-inventory-prevalidator"
+ },
+ {
+   "ProjectId": 50629,
+   "ProjectName": "lkm-oh-recon-service"
+ },
+ {
+   "ProjectId": 50261,
+   "ProjectName": "lkm-recon-transaction-service"
+ },
+ {
+   "ProjectId": 47762,
+   "ProjectName": "RSN-RTV-Service"
+ },
+ {
+   "ProjectId": 46528,
+   "ProjectName": "RSN-RTV-UI"
+ },
+ {
+   "ProjectId": 45396,
+   "ProjectName": "lkm-read-service"
+ },
+ {
+   "ProjectId": 45043,
+   "ProjectName": "ax-rshp-inventory-validator"
+ },
+ {
+   "ProjectId": 42964,
+   "ProjectName": "lkm-transaction-orchestrator"
+ },
+ {
+   "ProjectId": 41328,
+   "ProjectName": "ax-inventory-transaction-orchestrator"
+ },
+ {
+   "ProjectId": 41327,
+   "ProjectName": "ax-inventory-transaction-consumer"
+ },
+ {
+   "ProjectId": 34834,
+   "ProjectName": "material-receipt-transaction"
+ },
+ {
+   "ProjectId": 27403,
+   "ProjectName": "inventory-transaction-message-service"
+ },
+ {
+   "ProjectId": 17649,
+   "ProjectName": "ReadItemFromKafkaToMongo"
+ },
+ {
+   "ProjectId": 17321,
+   "ProjectName": "GloviaItemTriggerService"
+ }
+]
